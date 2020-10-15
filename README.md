@@ -1,4 +1,4 @@
-# Primer Stach MERN
+# Primer Stack MERN
 
 ## Requiere
 * Nodejs

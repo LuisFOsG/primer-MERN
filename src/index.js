@@ -6,9 +6,6 @@ require("./database");
 
 const server = express();
 
-// TODO crear el frontend con React
-// TODO hacer proyectos con APIs
-
 server.set("port", process.env.PORT || 3000);
 
 // Middlewares
